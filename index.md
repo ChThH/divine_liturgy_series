@@ -1,7 +1,7 @@
 # Divine Liturgy Series
 
 ## About
-In Summer and Fall of 2023, I gave a series of talks going through the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
+In Summer and Fall of 2023, I gave a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
 
 Currently, this page is a work in progress and links are not yet fully updated.
 
