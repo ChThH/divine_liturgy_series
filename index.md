@@ -12,4 +12,5 @@ Currently, this page is a work in progress and links are not yet fully updated.
 
 ## Other links
 Future Outline  
+
 Order of Books in the Bible  
