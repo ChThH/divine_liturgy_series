@@ -1,7 +1,8 @@
 # Divine Liturgy Series
 
 ## About
-In Summer and Fall of 2023, I gave a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
+These are a  series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
+They were given at Holy Resurrection Orthodox Church in Tucson during summer and fall of 2023.
 
 Currently, this page is a work in progress and links are not yet fully updated.
 
@@ -13,7 +14,7 @@ Title | Additional Files | Date
 [The Divine Banquet: Communing with God](docs/02 Divine Banquet.pdf) |  [Handout](docs/02H Divine Banquet.pdf) | 2023-06-18
 [“It is Time for the Lord to Act”: The Age to Come](docs/03 Time for the Lord to Act.pdf) | [Handout](docs/03H Time for the Lord to Act.pdf) | 2023-06-25
 
-A quick request, if you find any errors please let me know. I intend to compile these together into a booklet for catechumens.
+A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
 ## Other links
 [Full Series Outline](Outline.md)  
