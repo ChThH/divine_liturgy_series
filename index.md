@@ -13,7 +13,9 @@ Title | Additional Files | Date
 [The Divine Banquet: Communing with God](docs/02 Divine Banquet.pdf) |  [Handout](docs/02H Divine Banquet.pdf) | 2023-06-18
 [“It is Time for the Lord to Act”: The Age to Come](docs/03 Time for the Lord to Act.pdf) | [Handout](docs/03H Time for the Lord to Act.pdf) | 2023-06-25
 
-## Other links
-Full Series Outline  
+A quick request, if you find any errors please let me know. I intend to compile these together into a booklet for catechumens.
 
-Order of Books in the Bible  
+## Other links
+[Full Series Outline](Outline.md)  
+
+[Order of Books in the Bible](orderbooks.md) 
