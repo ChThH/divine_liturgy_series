@@ -4,24 +4,9 @@
 @import "{{ site.theme }}";
 
 header h1 {
-  background-color: #7c334f;
-  font-size: 2.5em;
-  font-weight: 800;
-  font-style: normal;
-  text-transform: auto;
-  color: #ece4d8;
-  text-align: center;
-  line-height:1;
-  padding: 14px 20px 0;
+  text-transform: unset;
 }
 
 footer span.ribbon-inner a {
-  position: relative;
-  bottom: -1px;
-  color: #7eb0d2;
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  text-transform: auto;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 1.2em;
+  text-transform: unset;
 }
