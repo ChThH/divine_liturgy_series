@@ -1,9 +1,7 @@
 ---
 layout: home
+title: Divine Liturgy Series
 ---
-
-
-# Divine Liturgy Series
 
 ## About
 These are a  series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
