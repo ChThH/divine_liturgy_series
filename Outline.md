@@ -1,4 +1,8 @@
-# Outline of Series
+---
+layout: home
+title: Outline of Series
+list_title: ''
+---
 
 ## Already given
 
