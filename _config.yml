@@ -5,9 +5,9 @@ minima:
   skin: solarized
   social_links:
     - { platform: github,  user_url: "https://github.com/ChThH" }
-author:
-  name: Christopher Hall
-  email: "chthh@example.com"
+#author:
+  #name: Christopher Hall
+  #email: "chthh@example.com"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 header_pages: none
