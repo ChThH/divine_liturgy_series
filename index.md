@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+
 # Divine Liturgy Series
 
 ## About
