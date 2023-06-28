@@ -1,8 +1,5 @@
 title: An Overview of the Divine Liturgy
-#show_downloads: false
 remote_theme: jekyll/minima
-#remote_theme: pages-themes/merlot@v0.2.0
-list title: ''
-author: ''
+github_username: ChThH
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
