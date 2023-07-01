@@ -22,4 +22,6 @@ A quick request, if you find any errors please notify the project owner. Future 
 ## Other links
 [Full Series Outline](Outline.md)  
 
+About our heavenly patron, [Holy Nicholas Cabasilas of Thessaloniki (external link)](https://www.oca.org/saints/lives/2023/06/20/103753-venerable-nicholas-cabasilas)
+
 [Order of Books in the Bible](orderbooks.md) 
