@@ -4,8 +4,8 @@ title: "Ascension: Our Lord is with Us"
 ---
 
 
-*The Lord ascended to the heavens to send the Comforter into the world. Wherefore, the heavens made ready His throne, and the clouds His mount. The angels wonder as they see a man more exalted than they. The Father receiveth into His bosom Him Who is eternally with Him. The Holy Spirit commandeth all the angels, Lift your heads, O princes, and all ye nations, clap your hands; for Christ hath ascended whither He was before.*
-*—Vesperal Stichera*
+*The Lord ascended to the heavens to send the Comforter into the world. Wherefore, the heavens made ready His throne, and the clouds His mount. The angels wonder as they see a man more exalted than they. The Father receiveth into His bosom Him Who is eternally with Him. The Holy Spirit commandeth all the angels, Lift your heads, O princes, and all ye nations, clap your hands; for Christ hath ascended whither He was before.*  
+*— From the Vesperal Stichera for the Feast*
 
 *The Lord says to my Lord: “Sit at my right hand, until I make your enemies your footstool.” (Psalm 109.1 [110.1])*
 
