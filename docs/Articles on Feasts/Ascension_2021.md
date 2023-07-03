@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Ascension: Our Lord is with Us"
 ---
 
