@@ -1,9 +1,8 @@
 ---
 Layout: base
-Title: "Ascension: Our Lord is with Us"
+Title: Ascension, Our Lord is with Us
 ---
 
-# Ascension: Our Lord is with Us
 
 *The Lord ascended to the heavens to send the Comforter into the world. Wherefore, the heavens made ready His throne, and the clouds His mount. The angels wonder as they see a man more exalted than they. The Father receiveth into His bosom Him Who is eternally with Him. The Holy Spirit commandeth all the angels, Lift your heads, O princes, and all ye nations, clap your hands; for Christ hath ascended whither He was before.*
 *—Vesperal Stichera*
