@@ -7,7 +7,7 @@ title: "Ascension: Our Lord is with Us"
 *The Lord ascended to the heavens to send the Comforter into the world. Wherefore, the heavens made ready His throne, and the clouds His mount. The angels wonder as they see a man more exalted than they. The Father receiveth into His bosom Him Who is eternally with Him. The Holy Spirit commandeth all the angels, Lift your heads, O princes, and all ye nations, clap your hands; for Christ hath ascended whither He was before.*
 *—Vesperal Stichera*
 
-The Lord says to my Lord: “Sit at my right hand, until I make your enemies your footstool.” (Psalm 109.1 [110.1])
+*The Lord says to my Lord: “Sit at my right hand, until I make your enemies your footstool.” (Psalm 109.1 [110.1])*
 
 “Christ is in our midst.” “He is and ever shall be.” It is peculiar that these words are first spoken at the Liturgy of the Ascension replacing the Paschal greeting. It is in the midst of us celebrating Christ ascent into heaven to take up his power and reign (Revelation 11.17), that we proclaim he is with us, in our midst. 
 
