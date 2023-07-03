@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: "Ascension: Our Lord is with Us"
 ---
 
