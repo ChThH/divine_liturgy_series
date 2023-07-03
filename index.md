@@ -16,7 +16,7 @@ Title | Additional Files | Date
 [Introduction: The End of the Liturgy](docs/01 Introduction.pdf) | [Handout](docs/01H Introduction.pdf) | 2023-06-11
 [The Divine Banquet: Communing with God](docs/02 Divine Banquet.pdf) |  [Handout](docs/02H Divine Banquet.pdf) | 2023-06-18
 [“It is Time for the Lord to Act”: The Age to Come](docs/03 Time for the Lord to Act.pdf) | [Handout](docs/03H Time for the Lord to Act.pdf) | 2023-06-25
-[“Bless Master”: The Celebrants of the Divine Liturgy](docs/04%20Bless%20Master.pdf) | [Handout](docs/04H%20Bless%20Master.pdf) <br>[Ascension Article]({% link docs/Articles on Feasts/Ascension_2021.md %}) | 2023-07-02
+[“Bless Master”: The Celebrants of the Divine Liturgy](docs/04%20Bless%20Master.pdf) | [Handout](docs/04H%20Bless%20Master.pdf) <br>[Ascension Article]({% link /docs/Articles on Feasts/Ascension_2021.md %}) | 2023-07-02
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
