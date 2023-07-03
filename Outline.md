@@ -12,9 +12,9 @@ The Divine Banquet: Communing with God
 
 “It is Time for the Lord to Act”: The Age to Come
 
-## Future Talks
-
 “Bless Master”: The Celebrants
+
+## Future Talks
 
 The Kingdom: “Who shall Ascend the Mountain of the Lord?”
 
