@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Outline of Series
 list_title: ''
 ---
