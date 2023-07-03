@@ -12,7 +12,7 @@ The Divine Banquet: Communing with God
 
 “It is Time for the Lord to Act”: The Age to Come
 
-“Bless Master”: The Celebrants
+“Bless Master”: The Celebrants of the Divine Liturgy
 
 ## Future Talks
 
