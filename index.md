@@ -1,4 +1,7 @@
-# Divine Liturgy Series
+---
+layout: home
+title: Divine Liturgy Series
+---
 
 ## About
 These are a  series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
@@ -20,5 +23,7 @@ A quick request, if you find any errors please notify the project owner. Future 
 
 ## Other links
 [Full Series Outline](Outline.md)  
+
+About our heavenly patron, [Holy Nicholas Cabasilas of Thessaloniki](https://www.oca.org/saints/lives/2023/06/20/103753-venerable-nicholas-cabasilas) (external link)
 
 [Order of Books in the Bible](orderbooks.md) 
