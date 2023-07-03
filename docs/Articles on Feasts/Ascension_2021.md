@@ -1,6 +1,6 @@
 ---
-Layout: base
-Title: Ascension, Our Lord is with Us
+layout: base
+title: "Ascension: Our Lord is with Us"
 ---
 
 
