@@ -1,4 +1,5 @@
 ---
+Layout: base
 Title: "Ascension: Our Lord is with Us"
 ---
 
