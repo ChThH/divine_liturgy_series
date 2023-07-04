@@ -37,7 +37,7 @@ Ecclesiastes|
 Song of Solomon|
 Job|
 Wisdom of Solomon | Wisdom
-Sirach | Ecclesiasticus/Wisdom of Jesus/Joshua son of Sirach
+Sirach | Ecclesiasticus/Wisdom of Jesus (Joshua) son of Sirach
 Hosea|
 Amos|
 Micah|
@@ -65,30 +65,30 @@ The New Testament order is standardized but here it is for completeness and refe
 
 Name|Alternate Names
 ---|---
-Matthew
-Mark
-Luke
-John
-Acts
-Romans
-1 Corinthians
-2 Corinthians
-Galatians
-Ephesians
-Philippians
-Colossians
-1 Thessalonians
-2 Thessalonians
-1 Timothy
-2 Timothy
-Titus
-Philemon
-Hebrews
-James
-1 Peter
-2 Peter
-1 John
-2 John
-3 John
-Jude
+Matthew|
+Mark|
+Luke|
+John|
+Acts|
+Romans|
+1 Corinthians|
+2 Corinthians|
+Galatians|
+Ephesians|
+Philippians|
+Colossians|
+1 Thessalonians|
+2 Thessalonians|
+1 Timothy|
+2 Timothy|
+Titus|
+Philemon|
+Hebrews|
+James|
+1 Peter|
+2 Peter|
+1 John|
+2 John|
+3 John|
+Jude|
 Apocalypse|Revelation
