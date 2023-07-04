@@ -30,34 +30,34 @@ Tobit|
 2 Maccabees| 
 3 Maccabees| 
 4 Maccabees| (as an appendix in some Bibles)
-Psalms
+Psalms|
 Prayer of Manasseh| (as part of Odes in some Bibles)
-Proverbs
-Ecclesiastes
-Song of Solomon
-Job
+Proverbs|
+Ecclesiastes|
+Song of Solomon|
+Job|
 Wisdom of Solomon | Wisdom
 Sirach | Ecclesiasticus/Wisdom of Jesus/Joshua son of Sirach
-Hosea
-Amos
-Micah
-Joel
-Obadiah
-Jonah
-Nahum 
-Habakkuk 
-Zephaniah 
-Haggai
-Zechariah 
-Malachi
-Isaiah
-Jeremiah
-Baruch 
-Lamentations 
-Letter of Jeremiah
-Ezekiel
+Hosea|
+Amos|
+Micah|
+Joel|
+Obadiah|
+Jonah|
+Nahum |
+Habakkuk| 
+Zephaniah |
+Haggai|
+Zechariah| 
+Malachi|
+Isaiah|
+Jeremiah|
+Baruch |
+Lamentations| 
+Letter of Jeremiah|
+Ezekiel|
 Susanna| Susanna and the Elders/Daniel 0/(Vulgate: Daniel 13)
-Daniel
+Daniel|
 Bel and the Dragon|Daniel 13/(Vulgate: Daniel 14)
 
 ## New Testament
