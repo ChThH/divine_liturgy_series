@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## Old Testament
-Some of you have probably wondered about the order of Biblical Books I have in my notes. Well, Most Bibles in English are arranged one way, but every version that's a translation of the Greek Old Testament seems to show a slightly different order. So I'm using the New English Tranlsation of the Septuagant (NETS), order as found on pages vii & viii. Mostly I'm using the traditional English names for the books (NETS uses Greek transliterations for many of them), but have notes alternates in the table. 
+Versions of the Old Testament vary in the order of books, even among those translated from the Greek. (It appears the Greek Bibles themselves vary in thier order.) For the handouts, since they use the NETS translation as the primary translation for the Old Testament, that is the order chosen for the book list as well. 
 
 Name|Alternate Names
 ---|---
@@ -69,7 +69,7 @@ Matthew|
 Mark|
 Luke|
 John|
-Acts|
+Acts| The Acts of the Apostles
 Romans|
 1 Corinthians|
 2 Corinthians|
