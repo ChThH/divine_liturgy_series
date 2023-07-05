@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Bible Book Order
 ---
 
 ## Old Testament
