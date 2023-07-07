@@ -3,7 +3,7 @@ layout: page
 title: The Transfiguration and the Second Coming
 ---
 
-*Thou hast been transfigured, O Savior, on Mount Tabor, indicating the transformation of mankind which shall take place at Thy dreadful Second Coming.*
+*Thou hast been transfigured, O Savior, on Mount Tabor, indicating the transformation of mankind which shall take place at Thy dreadful Second Coming.*  
 *—From the Kathismata of the Transfiguration sung in Orthros*
 
 *That Thou mightest clearly demonstrate Thine ineffable second coming, how Thou, the Most High God, shalt be seen standing in the midst of gods, Thou shonest ineffably upon the Apostles and Moses and Elias upon Mount Tabor. Wherefore, we all magnify Thee, O Christ.*
@@ -19,7 +19,9 @@ The Transfiguration is set before the Passion on Christ in the Gospels so that w
 
 For most of us, the end of the age is our death. As has oft been repeated, the Church is to prepare us for this end, the dissolution of soul and body. If we are faithful in Christ, then we shall be ushered into the age to come, and will experience the transformation of mankind at Christ’s Second Coming. By God’s grace, let us run with endurance the race set before us, taking up our own cross, while looking to Jesus (Hebrews 12.1-2) so we may delight in him, magnify both his First and Second Comings, and share in his glory.
 
-*Thou hast smitten me with yearning, O Christ, and by Thy divine love hast Thou changed me. But with Thine immaterial fire, consume my sins and count me worthy to be filled with delight in Thee, that leaping for joy, O Good One, I may magnify Thy two comings.*
+*Thou hast smitten me with yearning, O Christ, and by Thy divine love hast Thou changed me. But with Thine immaterial fire, consume my sins and count me worthy to be filled with delight in Thee, that leaping for joy, O Good One, I may magnify Thy two comings.*  
 *—From the Ninth Ode of the Second Transfiguration Canon sung in Orthros*
 
 *O Son of God, Who wast transfigured on Mount Tabor, save us who sing unto Thee. Alleluia!*
+
+[This article was originally written for the Summer/Fall 2021 issue of the HROC newsletter]
