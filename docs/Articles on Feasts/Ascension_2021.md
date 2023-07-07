@@ -3,7 +3,6 @@ layout: page
 title: "Ascension: Our Lord is with Us"
 ---
 
-
 *The Lord ascended to the heavens to send the Comforter into the world. Wherefore, the heavens made ready His throne, and the clouds His mount. The angels wonder as they see a man more exalted than they. The Father receiveth into His bosom Him Who is eternally with Him. The Holy Spirit commandeth all the angels, Lift your heads, O princes, and all ye nations, clap your hands; for Christ hath ascended whither He was before.*  
 *— From the Vesperal Stichera for the Feast*
 
@@ -19,5 +18,6 @@ Because Christ humbled himself and became human, humanity is exalted into the he
 
 As we ascend the steps of the church, we participate in Christ’s Ascension. The Letter to the Hebrews states we are come to the true Mount Zion and worship with the angels and the saints gone on before us (chapter 12). We are united to Christ in the heavens and partake of the heavenly food, his flesh and blood. As we are thus united, let us unite ourselves to Christ. Indeed, “Christ is in our midst.” “He is and ever shall be.”
 
-
 *O Son of God, Who didst rise from us in glory to the heavens, save us who sing to Thee. Alleluia*
+
+[This article was originally written for the Spring/Summer 2021 Issue of the HROC newsletter.]
