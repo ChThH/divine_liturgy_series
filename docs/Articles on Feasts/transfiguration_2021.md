@@ -6,7 +6,7 @@ title: The Transfiguration and the Second Coming
 *Thou hast been transfigured, O Savior, on Mount Tabor, indicating the transformation of mankind which shall take place at Thy dreadful Second Coming.*  
 *—From the Kathismata of the Transfiguration sung in Orthros*
 
-*That Thou mightest clearly demonstrate Thine ineffable second coming, how Thou, the Most High God, shalt be seen standing in the midst of gods, Thou shonest ineffably upon the Apostles and Moses and Elias upon Mount Tabor. Wherefore, we all magnify Thee, O Christ.*
+*That Thou mightest clearly demonstrate Thine ineffable second coming, how Thou, the Most High God, shalt be seen standing in the midst of gods, Thou shonest ineffably upon the Apostles and Moses and Elias upon Mount Tabor. Wherefore, we all magnify Thee, O Christ.*\
 *—From the Ninth Ode of the Second Transfiguration Canon sung in Orthros*
 
 In the icon of the Transfiguration, Christ is surrounded by a whole-body radiance of light. The use of this indicates that what is depicted is beyond time and space. This is what we experience in this event; the hymns tell us that the image of the dreadful Second Coming is given to us now.
