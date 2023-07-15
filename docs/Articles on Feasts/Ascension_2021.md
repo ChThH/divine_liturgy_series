@@ -20,4 +20,4 @@ As we ascend the steps of the church, we participate in Christ’s Ascension. Th
 
 *O Son of God, Who didst rise from us in glory to the heavens, save us who sing to Thee. Alleluia*
 
-[This article was originally written for the Spring/Summer 2021 Issue of the HROC newsletter.]
+[This article was originally written for the HROC newsletter for the Feast of the Ascension 2021.]

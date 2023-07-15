@@ -24,4 +24,4 @@ For most of us, the end of the age is our death. As has oft been repeated, the C
 
 *O Son of God, Who wast transfigured on Mount Tabor, save us who sing unto Thee. Alleluia!*
 
-[This article was originally written for the Summer/Fall 2021 issue of the HROC newsletter]
+[This article was originally written for the HROC newsletter for the Feast of the Transfiguration 2021.]
