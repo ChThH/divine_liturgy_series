@@ -16,7 +16,7 @@ The Divine Banquet: Communing with God
 
 ## Future Talks
 
-The Kingdom: “Who shall Ascend the Mountain of the Lord?”
+The Kingdom: “Who Shall Ascend the Mountain of the Lord?”
 
 Again and Again: A Litany of Litanies
 
