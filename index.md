@@ -13,11 +13,11 @@ Currently, this page is a work in progress and links are not yet fully updated.
 
 Title | Additional Files | Date 
 ---|---|---
-[Introduction: The End of the Liturgy](docs/01 Introduction.pdf) | [Handout](docs/01H Introduction.pdf) | 2023-06-11
-[The Divine Banquet: Communing with God](docs/02 Divine Banquet.pdf) |  [Handout](docs/02H Divine Banquet.pdf) | 2023-06-18
-[“It is Time for the Lord to Act”: The Age to Come](docs/03 Time for the Lord to Act.pdf) | [Handout](docs/03H Time for the Lord to Act.pdf) <br> [Transfiguration Article](/docs/Articles on Feasts/transfiguration_2021.md)| 2023-06-25
+[Introduction: The End of the Liturgy](docs/01%20Introduction.pdf) | [Handout](docs/01H%20Introduction.pdf) | 2023-06-11
+[The Divine Banquet: Communing with God](docs/02%20Divine%20Banquet.pdf) |  [Handout](docs/02H%20Divine%20Banquet.pdf) | 2023-06-18
+[“It is Time for the Lord to Act”: The Age to Come](docs/03%20Time%20for%20the%20Lord%20to%20Act.pdf) | [Handout](docs/03H%20Time%20for%20the%20Lord%20to%20Act.pdf) <br> [Transfiguration Article](/docs/Articles%20on%20Feasts/transfiguration_2021.md)| 2023-06-25
 [“Bless Master”: The Celebrants of the Divine Liturgy](docs/04%20Bless%20Master.pdf) | [Handout](docs/04H%20Bless%20Master.pdf) <br>[Ascension Article](/docs/Articles on Feasts/Ascension_2021.md) | 2023-07-02
-[The Kingdom: “Who shall Ascend the Mountain of the Lord?”]()|[Handout]()| 2023-07-16
+[The Kingdom: “Who shall Ascend the Mountain of the Lord?”](/docs/05%20The%20Kingdom.pdf)|[Handout](/docs/05H%20The%20Kingdom.pdf)| 2023-07-16
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
