@@ -14,11 +14,11 @@ The Divine Banquet: Communing with God
 
 “Bless Master”: The Celebrants of the Divine Liturgy
 
-## Future Talks
-
 The Kingdom: “Who Shall Ascend the Mountain of the Lord?”
 
-Again and Again: A Litany of Litanies
+## Future Talks
+
+Again and Again: How Much Mercy Do I Need?
 
 ### Future Subjects, no titles yet
 The Antiphons
