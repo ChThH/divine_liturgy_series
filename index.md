@@ -4,10 +4,10 @@ title: Divine Liturgy Series
 ---
 
 ## About
-These are a  series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
+These are a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
 They were given at Holy Resurrection Orthodox Church in Tucson during summer and fall of 2023.
 
-Currently, this page is a work in progress and links are not yet fully updated.
+Currently, this page is a work in progress and materials are added within a few days of the talk being given.
 
 ## Outline and links
 
@@ -19,6 +19,7 @@ Title | Additional Files | Date
 [“Bless Master”: The Celebrants of the Divine Liturgy](docs/04%20Bless%20Master.pdf) | [Handout](docs/04H%20Bless%20Master.pdf) <br>[Ascension Article](docs/Articles%20on%20Feasts/Ascension_2021.html) | 2023-07-02
 [The Kingdom: “Who shall Ascend the Mountain of the Lord?”](docs/05%20The%20Kingdom.pdf)|[Handout](docs/05H%20The%20Kingdom.pdf)| 2023-07-16
 [Again and Again: How Much Mercy Do I Need?](docs/06%20Again%20and%20Again.pdf)|[Handout](docs/06H%20Again%20and%20Again.pdf)| 2023-08-06
+[Psalms of Blessedness: The Antiphons](docs/07%20Psalms%20of%20Praise.pdf)|[Handout](docs/07H%20Psalms%20of%20Praise.pdf)| 2023-08-13
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 

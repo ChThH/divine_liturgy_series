@@ -16,13 +16,11 @@ The Divine Banquet: Communing with God
 
 The Kingdom: “Who Shall Ascend the Mountain of the Lord?”
 
-## Future Talks
-
 Again and Again: How Much Mercy Do I Need?
 
-### Future Subjects, no titles yet
-The Antiphons
+Psalms of Blessedness: The Antiphons
 
+## Future Talks: Topics
 The Little Entrance
 
 The Incense
