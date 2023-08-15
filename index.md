@@ -18,6 +18,7 @@ Title | Additional Files | Date
 [“It is Time for the Lord to Act”: The Age to Come](docs/03%20Time%20for%20the%20Lord%20to%20Act.pdf) | [Handout](docs/03H%20Time%20for%20the%20Lord%20to%20Act.pdf) <br> [Transfiguration Article](docs/Articles%20on%20Feasts/transfiguration_2021.html)| 2023-06-25
 [“Bless Master”: The Celebrants of the Divine Liturgy](docs/04%20Bless%20Master.pdf) | [Handout](docs/04H%20Bless%20Master.pdf) <br>[Ascension Article](docs/Articles%20on%20Feasts/Ascension_2021.html) | 2023-07-02
 [The Kingdom: “Who shall Ascend the Mountain of the Lord?”](docs/05%20The%20Kingdom.pdf)|[Handout](docs/05H%20The%20Kingdom.pdf)| 2023-07-16
+[Again and Again: How Much Mercy Do I Need?](docs/06%20Again%20and%20Again.pdf)|[Handout](docs/06H%20Again%20and%20Again.pdf)| 2023-08-06
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
