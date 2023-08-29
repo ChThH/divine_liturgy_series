@@ -21,7 +21,7 @@ Title | Additional Files | Date
 [Again and Again: How Much Mercy Do I Need?](docs/06%20Again%20and%20Again.pdf)|[Handout](docs/06H%20Again%20and%20Again.pdf)| 2023-08-06
 [Psalms of Blessedness: The Antiphons](docs/07%20Psalms%20of%20Praise.pdf)|[Handout](docs/07H%20Psalms%20of%20Praise.pdf)| 2023-08-13
 Q&A Session 1 | [Audio](docs/Q&A%20Session_1.m4a) <br> Transcript -- Coming Soon(ish)| 2023-08-20
-
+[The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book](docs/08%20Little%20Entrance.pdf)|[Handout](docs/08H%20Little%20Entrance.pdf)|2023-08-27
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
 ## Other links
