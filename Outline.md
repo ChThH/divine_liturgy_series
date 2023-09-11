@@ -20,9 +20,9 @@ Again and Again: How Much Mercy Do I Need?
 
 Psalms of Blessedness: The Antiphons
 
-## Future Talks: Topics
-The Little Entrance
+The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book
 
+## Future Talks: Topics
 The Incense
 
 The Readings and Homily
