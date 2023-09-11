@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Divine Liturgy Series
+title: Divine Liturgy Series (Holy Resurrection Orthodox Christian Church Tucson)
 ---
 
 ## About
@@ -8,6 +8,9 @@ These are a series of short talks discussing the Divine Liturgy (the Eucharistic
 They were given at Holy Resurrection Orthodox Church in Tucson during summer and fall of 2023.
 
 Currently, this page is a work in progress and materials are added within a few days of the talk being given.
+
+## News
+There is a [new page](highschool.md) with this material adapted for highschool students.
 
 ## Outline and links
 
@@ -22,6 +25,7 @@ Title | Additional Files | Date
 [Psalms of Blessedness: The Antiphons](docs/07%20Psalms%20of%20Praise.pdf)|[Handout](docs/07H%20Psalms%20of%20Praise.pdf)| 2023-08-13
 Q&A Session 1 | [Audio](docs/Q&A%20Session_1.m4a) <br> Transcript -- Coming Soon(ish)| 2023-08-20
 [The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book](docs/08%20Little%20Entrance.pdf)|[Handout](docs/08H%20Little%20Entrance.pdf)|2023-08-27
+[The Victory of the Cross by St Romanos the Melodist](docs/09%20Victory%20of%20the%20Cross.pdf)|[Handout](docs/09H%20Victory%20of%20the%20Cross.pdf)<br>[A Life of St Romanos (oca.org)](https://www.oca.org/saints/lives/2023/10/01/102826-venerable-romanus-the-melodist-sweet-singer) <br> [A Longer Life](https://www.oca.org/the-hub/study-guides/the-life-of-saint-romanos-the-melodist)|2023-09-10
 
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
