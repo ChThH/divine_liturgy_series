@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Divine Liturgy Series (Holy Resurrection Orthodox Christian Church Tucson)
+title: Divine Liturgy Series
 ---
 
 ## About

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Divine Liturgy Series (High School Sunday School, Holy Resurrection Orthodox Christian Church Tucson)
+title: High School Divine Liturgy Series
 ---
 
 ## About
