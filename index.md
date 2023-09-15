@@ -7,7 +7,7 @@ title: Divine Liturgy Series
 These are a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
 They were given at Holy Resurrection Orthodox Church in Tucson during summer and fall of 2023.
 
-Currently, this page is a work in progress and materials are added within a few days of the talk being given.
+Materials are added within a few days of the talk being given.
 
 ## News
 There is a [new page](highschool.md) with this material adapted for highschool students.
