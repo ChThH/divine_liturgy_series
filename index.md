@@ -23,7 +23,7 @@ Title | Additional Files | Date
 [The Kingdom: “Who shall Ascend the Mountain of the Lord?”](docs/05%20The%20Kingdom.pdf)|[Handout](docs/05H%20The%20Kingdom.pdf)| 2023-07-16
 [Again and Again: How Much Mercy Do I Need?](docs/06%20Again%20and%20Again.pdf)|[Handout](docs/06H%20Again%20and%20Again.pdf)| 2023-08-06
 [Psalms of Blessedness: The Antiphons](docs/07%20Psalms%20of%20Praise.pdf)|[Handout](docs/07H%20Psalms%20of%20Praise.pdf)| 2023-08-13
-Q&A Session 1 | [Audio](docs/Q&A%20Session_1.m4a) <br> Transcript -- Coming Soon(ish)| 2023-08-20
+Q&A Session 1 | [Audio](docs/Q&A%20Session_1.m4a) <br> [Text](docs/Q&A1_reimagined.pdf)| 2023-08-20
 [The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book](docs/08%20Little%20Entrance.pdf)|[Handout](docs/08H%20Little%20Entrance.pdf)|2023-08-27
 [The Victory of the Cross by St Romanos the Melodist](docs/09%20Victory%20of%20the%20Cross.pdf)|[Handout](docs/09H%20Victory%20of%20the%20Cross.pdf)<br>[A Life of St Romanos (oca.org)](https://www.oca.org/saints/lives/2023/10/01/102826-venerable-romanus-the-melodist-sweet-singer) <br> [A Longer Life](https://www.oca.org/the-hub/study-guides/the-life-of-saint-romanos-the-melodist)|2023-09-10
 [Holy Smoke: The Prayers of the Saints](docs/10%20Holy%20Smoke.pdf)|[Handout](docs/10H%20Holy%20Smoke.pdf)|2023-09-17
