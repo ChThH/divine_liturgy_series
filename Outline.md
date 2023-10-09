@@ -22,11 +22,13 @@ Psalms of Blessedness: The Antiphons
 
 The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book
 
+The Victory of the Cross by St Romanos the Melodist
+
+Holy Smoke: The Prayers of the Saints
+
+Wisdom! Let Us Attend!: The Readings and Homily
+
 ## Future Talks: Topics
-The Incense
-
-The Readings and Homily
-
 The Great Entrance
 
 The Anaphora
