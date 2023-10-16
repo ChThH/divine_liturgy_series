@@ -35,7 +35,7 @@ Psalms|
 Prayer of Manasseh| (as part of Odes in some Bibles)
 Proverbs|
 Ecclesiastes|
-Song of Solomon|
+Song of Songs|Song of Solomon
 Job|
 Wisdom of Solomon | Wisdom
 Sirach | Ecclesiasticus/Wisdom of Jesus (Joshua) son of Sirach
