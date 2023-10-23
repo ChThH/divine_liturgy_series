@@ -28,9 +28,9 @@ Holy Smoke: The Prayers of the Saints
 
 Wisdom! Let Us Attend!: The Readings and Homily
 
-## Future Talks: Topics
-The Great Entrance
+Let Us Lay Aside All Earthly Cares That We May Receive The King Of All: The Great Entrance
 
+## Future Talks: Topics
 The Anaphora
 
 The Consecration

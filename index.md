@@ -28,6 +28,7 @@ Title | Additional Files | Date
 [The Victory of the Cross by St Romanos the Melodist](docs/09%20Victory%20of%20the%20Cross.pdf)|[Handout](docs/09H%20Victory%20of%20the%20Cross.pdf)<br>[A Life of St Romanos (oca.org)](https://www.oca.org/saints/lives/2023/10/01/102826-venerable-romanus-the-melodist-sweet-singer) <br> [A Longer Life](https://www.oca.org/the-hub/study-guides/the-life-of-saint-romanos-the-melodist)|2023-09-10
 [Holy Smoke: The Prayers of the Saints](docs/10%20Holy%20Smoke.pdf)|[Handout](docs/10H%20Holy%20Smoke.pdf)|2023-09-17
 [Wisdom! Let Us Attend!: The Readings and Homily](docs/11%20The%20Readings%20and%20Homily.pdf)|[Handout](docs/11H%20The%20Readings%20and%20Homily.pdf)|2023-10-08
+[Let Us Lay Aside All Earthly Cares That We May Receive The King of All](docs/12%20Lay%20Aside%20All%20Cares.pdf)|[Handout]|(docs/12H%20Lay%20Aside%20All%20Cares.pdf)|2023-10-22
 
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
