@@ -30,11 +30,9 @@ Wisdom! Let Us Attend!: The Readings and Homily
 
 Let Us Lay Aside All Earthly Cares That We May Receive The King Of All: The Great Entrance
 
+A Mercy of Peace, A Sacrifice of Praise: The Anaphora
+
 ## Future Talks: Topics
-The Anaphora
-
-The Consecration
-
 The Communion
 
 The Dismissals
