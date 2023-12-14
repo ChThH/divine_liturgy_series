@@ -21,8 +21,8 @@ Title | Additional Files | Notes | Date
 [Wisdom! Let Us Attend!: The Readings and Homily](docs/7-12Sunday_school/SSL08%20The%20Readings%20and%20Homily.pdf)|[Handout](docs/7-12Sunday_school/SSL08H%20The%20Readings%20and%20Homily.pdf)||2023-11-12
 [Let Us Lay Aside All Earthly Cares That We May Receive The King of All](docs/7-12Sunday_school/SSL09%20Lay%20Aside%20All%20Cares.pdf)|[Handout](docs/7-12Sunday_school/SSL09H%20Lay%20Aside%20All%20Cares.pdf)||2023-11-19
 [A Mercy of Peace, A Sacrifice of Praise: The Anaphora](docs/7-12Sunday_school/SSL10%20The%20Anaphora.pdf)|[Handout](docs/7-12Sunday_school/SSL10H%20The%20Anaphora.pdf)|Same notes as catechumen edition|2023-11-26
-[The Mystical Supper: The Holy Eucharist](docs/7-12Sunday_school/SSL11%20The%20Mystical%20Supper.pdf)|[Handout](docs/7-12Sunday_school/SSL11H%20The%20Mystical%20Supper.pdf)||2023-12-10
-
+[The Mystical Supper: The Holy Eucharist](docs/7-12Sunday_school/SSL11%20The%20Mystical%20Supper.pdf)|[Handout](docs/7-12Sunday_school/SSL11H%20The%20Mystical%20Supper.pdf)||2023-12-03
+[Let us Go Forth in Peace](docs/7-12Sunday_school/SSL12%20The%20Dismissals.pdf)|[Handout](docs/7-12Sunday_school/SSL12H%20The%20Dismissals.pdf)||2023-12-10
 
 
 
