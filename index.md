@@ -31,6 +31,7 @@ Title | Additional Files | Date
 [Let Us Lay Aside All Earthly Cares That We May Receive The King of All](docs/12%20Lay%20Aside%20All%20Cares.pdf)|[Handout](docs/12H%20Lay%20Aside%20All%20Cares.pdf)|2023-10-22
 [A Mercy of Peace, A Sacrifice of Praise: The Anaphora](docs/13%20The%20Anaphora.pdf)|[Handout](docs/13H%20The%20Anaphora.pdf)|2023-11-05
 [The Mystical Supper: The Holy Eucharist](docs/14%20The%20Mystical%20Supper.pdf)|[Handout](docs/14H%20The%20Mystical%20Supper.pdf)|2023-12-10
+[Let Us Go Forth in Peace](docs/15%20The%20Dismissals.pdf)|[Handout](docs/15H%20The%20Dismissals.pdf)|2023-12-17
 
 
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.

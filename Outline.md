@@ -4,8 +4,6 @@ title: Outline of Series
 list_title: ''
 ---
 
-## Already given
-
 Introduction: The End of the Liturgy
 
 The Divine Banquet: Communing with God
@@ -32,7 +30,6 @@ Let Us Lay Aside All Earthly Cares That We May Receive The King Of All: The Grea
 
 A Mercy of Peace, A Sacrifice of Praise: The Anaphora
 
-## Future Talks: Topics
-The Communion
+The Mystical Supper: The Holy Eucharist
 
-The Dismissals
+Let Us Go Forth in Peace: The Dismissals
