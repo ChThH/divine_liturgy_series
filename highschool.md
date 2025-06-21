@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High School DL Series
+title: High School Divine Liturgy Series
 ---
 
 ## About
