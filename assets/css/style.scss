@@ -1,10 +1,10 @@
 ---
----
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
 .site-header .site-nav a {
-  margin-right: 1rem; // Adjust as needed
+  margin-left: 1rem; // Adjust as needed
+  margin-right: 1rem;
 }
