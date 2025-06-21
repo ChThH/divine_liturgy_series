@@ -13,4 +13,5 @@ plugins:
 header_pages: 
   - index.md
   - highschool.md
+  - jonah.md
 
