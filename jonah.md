@@ -1,6 +1,7 @@
 ---
 layout: page
-title: High School Divine Liturgy Series
+title: Jonah
+time: Lent 2025
 ---
 
 ## About
