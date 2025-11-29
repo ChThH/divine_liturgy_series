@@ -1,14 +1,17 @@
 ---
 layout: home
-title: Divine Liturgy Series
+title: "It is Time for the Lord to Act: The Divine Liturgy"
 ---
+
+
+## Outline for Orthodoxy 101 *Winter 2025-2026*
+We're revisiting this series for HROC's catechumen class Orthodoxy 101. It is taught by Fr Gabriel, Sbdcn Loren, and myself.
+
+[Divine Liturgy Outline](outline-divine-liturgy.html)
 
 ## About
 These are a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
 They were given at Holy Resurrection Orthodox Church in Tucson during summer and fall of 2023.
-
-## News
-There is a [new page](highschool.md) with this material adapted for highschool students.
 
 ## Outline and links
 
