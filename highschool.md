@@ -1,6 +1,10 @@
 ---
 layout: page
-title: High School Divine Liturgy Series
+created: 2025-11-29 10:43:43
+updated: 2025-11-29 11:09:04
+title: Divine Liturgy Series For High School
+desc: An Overview of the Divine Liturgy for High School
+short_title: High School
 ---
 
 ## About

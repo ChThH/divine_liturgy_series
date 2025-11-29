@@ -1,6 +1,10 @@
 ---
 layout: home
+created: 2025-11-29 10:43:43
+updated: 2025-11-29 11:08:52
 title: "It is Time for the Lord to Act: The Divine Liturgy"
+desc: An Overview of the Divine Liturgy
+short_title: Overview
 ---
 
 
@@ -38,7 +42,7 @@ Title | Additional Files | Date
 A quick request, if you find any errors please notify the project owner. Future plans involve compiling these into a booklet for catechumens.
 
 ## Other links
-[Full Series Outline](Outline.md)  
+[Full Series Outline](outline-orthodoxy-101.md)  
 
 About our heavenly patron, [Holy Nicholas Cabasilas of Thessaloniki](https://www.oca.org/saints/lives/2023/06/20/103753-venerable-nicholas-cabasilas) (external link)
 
