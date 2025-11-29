@@ -1,7 +1,7 @@
 ---
 layout: home
 created: 2025-11-29 10:43:43
-updated: 2025-11-29 11:08:52
+updated: 2025-11-29 11:18:26
 title: "It is Time for the Lord to Act: The Divine Liturgy"
 desc: An Overview of the Divine Liturgy
 short_title: Overview
@@ -11,7 +11,8 @@ short_title: Overview
 ## Outline for Orthodoxy 101 *Winter 2025-2026*
 We're revisiting this series for HROC's catechumen class Orthodoxy 101. It is taught by Fr Gabriel, Sbdcn Loren, and myself.
 
-[Divine Liturgy Outline](outline-divine-liturgy.html)
+[Divine Liturgy Outline](outline-orthodoxy-101)
+[Divine Liturgy Presentation](outline-divine-liturgy.html)
 
 ## About
 These are a series of short talks discussing the Divine Liturgy (the Eucharistic service of the Orthodox Christian Church).
