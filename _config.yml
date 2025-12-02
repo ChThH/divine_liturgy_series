@@ -2,7 +2,7 @@ title: An Overview of the Divine Liturgy
 remote_theme: jekyll/minima
 github_username: ChThH
 minima:
-  skin: auto
+  skin: solarized
   social_links:
     - { platform: github,  user_url: "https://github.com/ChThH" }
 #author:
