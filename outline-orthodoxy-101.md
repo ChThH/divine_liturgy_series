@@ -2,7 +2,7 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2025-12-22 21:40:37
+updated: 2025-12-22 21:43:55
 lang: en
 pandoc-command-basic: pandoc 'Divine Liturgy Series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
 pandoc-command-js: pandoc 'Divine Liturgy Series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline-divine-liturgy.html'
@@ -140,6 +140,7 @@ The Divine Liturgy takes place in God's Time. In celebrating it, we are taken up
 Christ is the true celebrant of the Divine Liturgy. When we gather together for worship, we gather as a holy assembly joining with the saints and angels in their worship in heaven.
 
 > Wherever the bishop appears, there let the people be; even as, wherever Jesus Christ is, there is the Catholic Church.
+> 
 > --- St Ignatius, *Epistle to the Smyrnæans*
 
 ### Outline
