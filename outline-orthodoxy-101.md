@@ -2,11 +2,11 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2025-11-28 15:36:07
+updated: 2025-12-22 21:40:37
 lang: en
-pandoc-command-basic: pandoc 'Divine Liturgy Series/outline.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
-pandoc-command-js: pandoc 'Divine Liturgy Series/outline.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline-divine-liturgy.html'
-pandoc-command-js-screenshare: pandoc 'Divine Liturgy Series/outline.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections_screen_share.css --embed-resources --standalone -o 'Divine Liturgy Series/outline-divine-liturgy-screen-share.html'
+pandoc-command-basic: pandoc 'Divine Liturgy Series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
+pandoc-command-js: pandoc 'Divine Liturgy Series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline-divine-liturgy.html'
+pandoc-command-js-screenshare: pandoc 'Divine Liturgy Series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections_screen_share.css --embed-resources --standalone -o 'Divine Liturgy Series/outline-divine-liturgy-screen-share.html'
 ---
 
 ## Introduction: The End of the Liturgy
@@ -15,7 +15,7 @@ The end or goal of the Divine Liturgy is the union of our life with Christ. This
 
 To fully participate in this grace, we need to prepare by the means the Lord has given us: Scripture and prayer.
 
-> The rite of the divine service as a whole symbolizes, through the mysteries celebrated in it, the entire dispensation [economy] of the condescension for salvation of true God and Savior Jesus Christ.
+> The rite of the divine service as a whole symbolizes, through the mysteries celebrated in it, the entire dispensation [economy] of the condescension for our salvation of our true God and Savior Jesus Christ.
 > 
 > --- Theodore of Andida, *Protheoria*
 
@@ -104,7 +104,7 @@ At the heart of the Divine Liturgy is the Sacrifice of the Eucharist, a meal wit
 ##### Passover and Exile
 > Behold, days are coming, quoth the Lord, and I will make a new covenant with the house of Israel and the house of Judah. It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord, because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me. And they shall not teach, each his fellow citizen and each his brother, saying, "Know the Lord," because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more.
 > 
-> -- Jeremiah 38.31-34 (31.31-34)
+> --- Jeremiah 38.31-34 (31.31-34)
 
 ##### New Covenant
 > \[Hades\] took a body, and face to face met God! It took earth and encountered heaven! It took what it saw but crumbled before what it had not seen! "O death, where is thy sting? O hades, where is thy victory?"
@@ -207,7 +207,7 @@ In the Divine Liturgy we enter into heaven which is the Kingdom of the Father, S
  
 #### Cross and Gospel
 > Yet among the mature we do impart wisdom, although it is not a wisdom of this age or of the rulers of this age, who are doomed to pass away. But we impart a secret and hidden wisdom of God, which God decreed before the ages for our glory. None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory.
-> 1 Corinthians 2.6--8
+> --- 1 Corinthians 2.6--8
 
 #### The Holy Trinity
 > When Thou, O Lord, wast baptized in the Jordan, worship of the Trinity wast made manifest; for the voice of the Father bore witness to Thee, calling Thee His beloved Son. And the Spirit in the likeness of a dove confirmed the truth of His word. O Christ our God, Who hast appeared and enlightened the world, glory to Thee.
@@ -313,7 +313,7 @@ The Psalms form the pattern for true worship, describing the blessed man who is 
 > --- Matthew 5.1--12
 
 #### The Refrains
-> O Son of God, who art glorified in the saints, save us who sing to Thee. Alleluia.
+> O Son of God, who art *glorified in the saints,* save us who sing to Thee. Alleluia.
 
 > O Son of God, who art *risen from the dead,* save us who sing to Thee. Alleluia.
 
@@ -328,7 +328,7 @@ The Entrance with the Gospel Book shows us that Christ is in our midst, leading 
 
 > Consider who they are who sing with you, and that should be enough to move you to vigilance. It should be sufficient when you remember that, while being clothed in a body and bound up with the flesh, you have been accounted worth to hymn the Lord, to is common to all, together with the bodiless powers.
 >
-> -- St John Chrysostom, *On Matthew 19.3*
+> --- St John Chrysostom, *On Matthew 19.3*
 
 ### Outline
 #### Imagery and Icons
@@ -351,7 +351,7 @@ The Entrance with the Gospel Book shows us that Christ is in our midst, leading 
 #### Variable Hymns
 > Thou hast revealed the earthly majesty of the dwelling place of thy holy glory, O Lord. As the brilliance of the firmament on high make firm its foundation unto ages of ages, and receive our fervent supplications which are offered to thee therein. Through the intercessions of the Theotokos, O Life and Resurrection of all.
 >
-> Hymn for Holy Resurrection Orthodox Church
+> --- Hymn for Holy Resurrection Orthodox Church
 
 #### Trisagion
 > O holy God, who resteth in the holy place, who art hymned by the seraphim with the thrice-holy cry and glorified by the cherubim and worshipped by every heavenly power, who out of nothingness hast brought all things into being, who hast created man according to thine image and likeness and hast adorned him with thine every gift; who givest to him that asketh wisdom and understanding, who despisest not the sinner but hast appointed repentance unto salvation, who hast vouchsafed unto us, thy humble and unworthy servants, even in this hour, to stand before the glory of thy holy altar and to offer the worship and praise which are due unto thee: thyself, O Master, receive even from the mouth of us sinners the thrice-holy hymn and visit us in thy goodness. Pardon us every transgression both voluntary and involuntary; sanctify our souls and bodies; and grant us to serve thee in holiness all the days of our life, through the intercession of the holy Theotokos and of all the saints, who from the beginning of the world have been well-pleasing unto thee.
@@ -388,7 +388,7 @@ Having been prepared by the first part of the service, the readings show us Chri
 
 > The Gospel represents Christ, and he who has found Christ has obtained all that he could desire...and those who possess all things need ask for nothing more.
 >
->--- St Nicholas Cabasilas, *Commentary on the Divine Liturgy*
+> --- St Nicholas Cabasilas, *Commentary on the Divine Liturgy*
 
 ### Outline
 #### Context
@@ -492,7 +492,7 @@ The Anaphora is the lifting up of ourselves and the Gifts to God. In it we parti
 #### Epiclesis
 > Having in Remembrance, therefore this saving commandment and all those things which have come to pass for us: the Cross, the Grave, the Third-Day Resurrection, the Ascension into heaven, the sitting at the right hand, and the second and glorious coming: Thine own of thine own we offer unto thee in behalf of all and for all.
 >
-> -- The Divine Liturgy
+> --- The Divine Liturgy
 
 ## The Mystical Supper: The Holy Eucharist
 **Theme:**
@@ -560,7 +560,7 @@ Having been given the Peace of God by encountering him in the Liturgy, we are to
 #### Blessed be the name of the Lord
 > Through this name [the name of the Lord], death was abolished...the doors of Paradise opened wide, the Holy Spirit descended upon us, slaves became free men, enemies became sons, strangers became heirs, humans became angels. Angels, did I say? God became man, and man god. Heaven received the nature that came from earth. The earth received him who sits upon the cherubim together with angelic host. The dividing wall [between God and humanity --- Ephesians 2.14] has been destroyed, the barrier has been removed, what was separated is united, darkness has been abolished, light has shone forth.
 >
-> ---St John Chrysostom, *On Psalm 8.*
+> --- St John Chrysostom, *On Psalm 8.*
 
 #### The Great Cloud of Witnesses
 > What is this prayer? It is that we may be saved through obtaining mercy, for we have of ourselves nothing that merits salvation, but we look only towards him who loves mankind and is able to save us. Therefore at this point he makes mention of many intercessors who can help us, and especially the all-holy Mother of God who was the vessel whereby Mercy was first brought to us. The prelude of this prayer is "Christ our True God." There is no longer any question of those false gods, those sham divinities, whom we once worshipped in such numbers, but "our true God", whom we have now found after great struggles. And so it is that we owe all glory, honor, and worship to him alone, as to God, together with his Eternal Father and his most holy and good and life-giving Spirit, now and always for ever and ever. Amen.
@@ -573,4 +573,5 @@ Having been given the Peace of God by encountering him in the Liturgy, we are to
 > --- St John Chrysostom
 
 > And I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am! Send me.”
+> 
 > --- Isaiah 6.8 
