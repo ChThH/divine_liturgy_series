@@ -395,7 +395,7 @@ Having been prepared by the first part of the service, the readings show us Chri
 #### Context
 > It is the kingdom of heaven we are entering, after all; we are going to places where lightning flashes. Inside, it is all silence and mysteries beyond telling. Pay precise attention, however: the reading out of the Scriptures is the opening of the heavens. It is a theology of the Word with implications, of course, also four our age's liturgies: public reading of the lectionary is the congregation's key to heaven.
 >
-> --- St John Crysostom, *Six Homilies on Isaiah 6*
+> --- St John Chrysostom, *Six Homilies on Isaiah 6*
 
 #### Prokeimenon
 > [The prokeimenon is] the revelation of the divine mysteries by the Prophets and the foretelling of the coming of Christ the King.
@@ -436,7 +436,7 @@ In order to receive Christ within us, we must lay aside all earthly cares, and l
 
 > The soul that has not learnt to despise the petty concerns of earthly life will not be able to marvel at the things of heaven.
 >
-> --- St John Crysostom, *On Genesis*
+> --- St John Chrysostom, *On Genesis*
 
 ### Outline
 #### The Cherubic Hymn
