@@ -208,6 +208,7 @@ In the Divine Liturgy we enter into heaven which is the Kingdom of the Father, S
  
 #### Cross and Gospel
 > Yet among the mature we do impart wisdom, although it is not a wisdom of this age or of the rulers of this age, who are doomed to pass away. But we impart a secret and hidden wisdom of God, which God decreed before the ages for our glory. None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory.
+>
 > --- 1 Corinthians 2.6--8
 
 #### The Holy Trinity
