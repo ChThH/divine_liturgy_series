@@ -394,7 +394,7 @@ Having been prepared by the first part of the service, the readings show us Chri
 
 ### Outline
 #### Context
-> It is the kingdom of heaven we are entering, after all; we are going to places where lightning flashes. Inside, it is all silence and mysteries beyond telling. Pay precise attention, however: the reading out of the Scriptures is the opening of the heavens. It is a theology of the Word with implications, of course, also four our age's liturgies: public reading of the lectionary is the congregation's key to heaven.
+> It is the kingdom of heaven we are entering, after all; we are going to places where lightning flashes. Inside, it is all silence and mysteries beyond telling. Pay precise attention, however: the reading out of the Scriptures is the opening of the heavens. It is a theology of the Word with implications, of course, also for our age's liturgies: public reading of the lectionary is the congregation's key to heaven.
 >
 > --- St John Chrysostom, *Six Homilies on Isaiah 6*
 
