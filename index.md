@@ -29,7 +29,7 @@ Title | Additional Files | Date
 [Psalms of Blessedness: The Antiphons](docs/07%20Psalms%20of%20Praise.pdf)|[Handout](docs/07H%20Psalms%20of%20Praise.pdf)| 2023-08-13
 [Q&A Session 1 Audio](docs/Q&A%20Session_1.m4a) | [Text](docs/Q&A1_reimagined.pdf)| 2023-08-20
 [The Hosts of Heaven with Our Lord: The Entrance with the Gospel Book](docs/08%20Little%20Entrance.pdf)|[Handout](docs/08H%20Little%20Entrance.pdf)|2023-08-27
-[The Victory of the Cross by St Romanos the Melodist](docs/09%20Victory%20of%20the%20Cross.pdf)|[Handout](docs/09H%20Victory%20of%20the%20Cross.pdf)<br>[A Life of St Romanos (oca.org)](https://www.oca.org/saints/lives/2023/10/01/102826-venerable-romanus-the-melodist-sweet-singer) <br> [A Longer Life](https://www.oca.org/the-hub/study-guides/the-life-of-saint-romanos-the-melodist)|2023-09-10
+[The Victory of the Cross by St Romanos the Melodist](docs/09%20Victory%20of%20the%20Cross.pdf)|[HTML Version](victory-of-the-cross.html)<br>[PDF Version](docs/09H%20Victory%20of%20the%20Cross.pdf)<br>[A Life of St Romanos (oca.org)](https://www.oca.org/saints/lives/2023/10/01/102826-venerable-romanus-the-melodist-sweet-singer) <br> [A Longer Life](https://www.oca.org/the-hub/study-guides/the-life-of-saint-romanos-the-melodist)|2023-09-10
 [Holy Smoke: The Prayers of the Saints](docs/10%20Holy%20Smoke.pdf)|[Handout](docs/10H%20Holy%20Smoke.pdf)|2023-09-17
 [Wisdom! Let Us Attend!: The Readings and Homily](docs/11%20The%20Readings%20and%20Homily.pdf)|[Handout](docs/11H%20The%20Readings%20and%20Homily.pdf)|2023-10-08
 [Let Us Lay Aside All Earthly Cares That We May Receive The King of All](docs/12%20Lay%20Aside%20All%20Cares.pdf)|[Handout](docs/12H%20Lay%20Aside%20All%20Cares.pdf)|2023-10-22
