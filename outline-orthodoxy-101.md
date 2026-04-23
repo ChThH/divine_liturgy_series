@@ -2,7 +2,7 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2026-04-13 20:58:11
+updated: 2026-04-22 21:46:24
 lang: en
 pandoc-command-basic: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
 pandoc-command-js: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'writings/divine-liturgy-series/outline-divine-liturgy.html'
@@ -168,7 +168,7 @@ Christ is the true celebrant of the Divine Liturgy. When we gather together for 
 #### The Servants of the Lord
 > Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.
 > 
-> --- Hebrews 12.1--2 ESV
+> --- Hebrews 12.1--2
 
 #### The Holy Ones
 > When Thou didst fulfill Thy dispensation for our sakes, uniting the terrestrials with the celestials, Thou didst ascend in glory, O Christ our God, inseparable in space, but constant without separation, and crying unto Thy beloved, I am with you, and no one shall be against you.
@@ -482,13 +482,13 @@ The Anaphora is the lifting up of ourselves and the Gifts to God. In it we parti
 ### Outline
 #### Opening Prayers
 ##### Liturgy of St John Chrysostom
-> *Priest (mystically):* It is meet and right to hymn thee, to bless thee, to praise thee, to give thanks unto thee, and to worship thee in every place of thy dominion: for thou art God ineffable, inconceivable, invisible, incomprehensible, ever-existing and eternally the same, thou and thine only-begotten Son and thy Holy Spirit. Thou it was who didst bring us from non-existence into being, and when we had fallen away didst raise us up again, and didst not cease to do all things until thou hadst brought us up to heaven and hadst endowed us with thy kingdom which is to come. For all these things we give thanks unto thee, and to thine only-begotten Son, and thy Holy Spirit; for all things of which we know and of *which we know not* and for all the benefits bestowed upon us, both manifest and unseen. And we give thanks unto thee also for this liturgy which thou dost vouchsafe to receive at our hands, even though there stand beside thee thousands of archangels and ten thousands of angels, the cherubim and the seraphim, six-winged, many-eyed, soaring aloft, born on their wings:
+> *Priest (mystically):* It is meet and right to hymn thee, to bless thee, to praise thee, to give thanks unto thee, and to worship thee in every place of thy dominion: for thou art God ineffable, inconceivable, invisible, incomprehensible, ever-existing and eternally the same, thou and thine only-begotten Son and thy Holy Spirit. Thou it was who didst bring us from non-existence into being, and when we had fallen away didst raise us up again, and *didst not cease to do all things until thou hadst brought us up to heaven and hadst endowed us with thy kingdom which is to come.* For all these things we give thanks unto thee, and to thine only-begotten Son, and thy Holy Spirit; for all things of which we know and of *which we know not* and for all the benefits bestowed upon us, both manifest and unseen. And we give thanks unto thee also for this liturgy which thou dost vouchsafe to receive at our hands, even though there stand beside thee thousands of archangels and ten thousands of angels, the cherubim and the seraphim, six-winged, many-eyed, soaring aloft, born on their wings:
 >
 > *Priest (aloud):* **Singing the triumphal hymn, shouting, proclaiming and saying:**
 >
 > *People:* **Holy, holy, holy, Lord of Sabaoth; heaven and earth are full of thy glory. Hosanna in the highest. Blessed is he that cometh in the name of the Lord. Hosanna in the highest.**
 >
-> *Priest (mystically):* With these blessed powers we also, O Master who lovest mankind, cry aloud and say: Holy art thou and all-holy, thou and thine only-begotten Son and thy Holy Spirit; holy art thou and all-holy and magnificent is thy glory, who hast so loved the world as to give thine only-begotten Son, that all who believe in him should not perish but have everlasting life, who, when he had come and had fulfilled all the dispensation for us, in the night in which he was betrayed or, rather, gave himself up for the life of the world, took bread in his holy and immaculate and blameless hands; and when he had given thanks and blessed it and hallowed it and broken it, he gave it to his holy disciples and apostles, [then follows the consecration].
+> *Priest (mystically):* With these blessed powers we also, O Master who lovest mankind, cry aloud and say: Holy art thou and all-holy, thou and thine only-begotten Son and thy Holy Spirit; holy art thou and all-holy and magnificent is thy glory, who hast so loved the world as to give thine only-begotten Son, that all who believe in him should not perish but have everlasting life, who, when he had come and had *fulfilled all the dispensation for us,* in the night in which he was betrayed or, rather, gave himself up for the life of the world, took bread in his holy and immaculate and blameless hands; and when he had given thanks and blessed it and hallowed it and broken it, he gave it to his holy disciples and apostles, [then follows the consecration].
 >
 > --- The Opening Anaphora Prayers in the Liturgy of St John Chrysostom
 
