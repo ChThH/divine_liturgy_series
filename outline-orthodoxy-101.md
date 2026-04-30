@@ -2,7 +2,7 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2026-04-22 21:46:24
+updated: 2026-04-29 20:44:54
 lang: en
 pandoc-command-basic: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
 pandoc-command-js: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'writings/divine-liturgy-series/outline-divine-liturgy.html'
@@ -33,9 +33,9 @@ To fully participate in this grace, we need to prepare by the means the Lord has
 > 
 > And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. And I said: "Woe is me! For I am undone; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the LORD of hosts!"
 >
-> Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. And he touched my mouth and said: Behold, this has touched your lips; your guilt is taken away, and your sin atoned for."
+> Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. And he touched my mouth and said: "Behold, this has touched your lips; your guilt is taken away, and your sin atoned for."
 >
-> And I heard the voice of the Lord saying, Whom shall I send, and who will go for us?" Then I said, Here I am! Send me."
+> And I heard the voice of the Lord saying, "Whom shall I send, and who will go for us?" "Then I said, Here I am! Send me."
 > 
 > --- Isaiah 6.1--9
 
@@ -107,7 +107,7 @@ At the heart of the Divine Liturgy is the Sacrifice of the Eucharist, a meal wit
 > --- Jeremiah 38.31-34 (31.31-34)
 
 ##### New Covenant
-> \[Hades\] took a body, and face to face met God! It took earth and encountered heaven! It took what it saw but crumbled before what it had not seen! "O death, where is thy sting? O hades, where is thy victory?"
+> [Hades] took a body, and face to face met God! It took earth and encountered heaven! It took what it saw but crumbled before what it had not seen! "O death, where is thy sting? O hades, where is thy victory?"
 > 
 > --- St John Chrysostom, *Paschal Homily*
 
@@ -225,7 +225,7 @@ In asking for the Lord's mercy we request the Kingdom, as reflected by several f
 
 ### Outline
 #### Lord, have mercy
-> This intercession is appropriate, since we should not ask for anything except for mercy, as we have neither boldness nor access to offer anything as our own...So, as sinners and condemned through sin we cannot, nor dare, say anything to our loving Master, except 'have mercy'"
+> This intercession is appropriate, since we should not ask for anything except for mercy, as we have neither boldness nor access to offer anything as our own...So, as sinners and condemned through sin we cannot, nor dare, say anything to our loving Master, except 'have mercy'.
 >
 > --- St Symeon of Thessalonica
 
@@ -248,7 +248,7 @@ In asking for the Lord's mercy we request the Kingdom, as reflected by several f
 
 #### Litany Before the Lord's Prayer
 > O our God, the God of salvation, do thou teach us how we may worthily give thanks unto thee for thy benefits, which thou hast ever bestowed and yet dost bestow among us. Do thou, O our God who receives these gifts, purify us from every defilement of flesh and spirit: teach us to perfect holiness in thy fear, that we, receiving a portion of thy holy things in the witness of a pure conscience toward thee, may be made one with the holy Body and Blood of thy Christ and that, having received them worthily, we may have Christ abiding in our hears and may become a temple of thy Holy Spirit. Yea, O our God, cause also that none of us may be guilty of these thy dread and heavenly mysteries or infirm in soul or in body through an unworthy partaking; but enable us, even to our last breath, worthily to receive a portion of thy holy things, as a support upon the road to life eternal and as an acceptable defense at the fearful judgment seat of thy Christ. The we also together with all the saints who, in all the ages, have been well-pleasing unto thee, may be made partakers of thine everlasting good things, which thou hast prepared for those who love thee, O Lord.
-O our God, the God of salvation, do thou teach us how we may worthily give thanks unto thee for thy benefits, which thou hast ever bestowed and yet dost bestow among us. Do thou, O our God who receives these gifts, purify us from every defilement of flesh and spirit: teach us to perfect holiness in thy fear, that we, receiving a portion of thy holy things in the witness of a pure conscience toward thee, may be made one with the holy Body and Blood of thy Christ and that, having received them worthily, we may have Christ abiding in our hears and may become a temple of thy Holy Spirit. Yea, O our God, cause also that none of us may be guilty of these thy dread and heavenly mysteries or infirm in soul or in body through an unworthy partaking; but enable us, even to our last breath, worthily to receive a portion of thy holy things, as a support upon the road to life eternal and as an acceptable defense at the fearful judgment seat of thy Christ. The we also together with all the saints who, in all the ages, have been well-pleasing unto thee, may be made partakers of thine everlasting good things, which thou hast prepared for those who love thee, O Lord.
+O our God, the God of salvation, do thou teach us how we may worthily give thanks unto thee for thy benefits, which thou hast ever bestowed and yet dost bestow among us. Do thou, O our God who receives these gifts, purify us from every defilement of flesh and spirit: teach us to perfect holiness in thy fear, that we, receiving a portion of thy holy things in the witness of a pure conscience toward thee, may be made one with the holy Body and Blood of thy Christ and that, having received them worthily, we may have Christ abiding in our hears and may become a temple of thy Holy Spirit. Yea, O our God, cause also that none of us may be guilty of these thy dread and heavenly mysteries or infirm in soul or in body through an unworthy partaking; but enable us, even to our last breath, worthily to receive a portion of thy holy things, as a support upon the road to life eternal and as an acceptable defense at the fearful judgment seat of thy Christ. That we also together with all the saints who, in all the ages, have been well-pleasing unto thee, may be made partakers of thine everlasting good things, which thou hast prepared for those who love thee, O Lord.
 >
 > --- The Priest's Silent Prayer of the Litany of Supplication (St Basil)
 
@@ -473,7 +473,7 @@ In order to receive Christ within us, we must lay aside all earthly cares, and l
 
 ## A Mercy of Peace, A Sacrifice of Praise: The Anaphora
 **Theme**
-The Anaphora is the lifting up of ourselves and the Gifts to God. In it we participate in the whole economy of salvation.
+The Anaphora is the lifting up of ourselves and the Gifts to God. In it, we participate in the whole economy of salvation.
 
 > "Let us lift up our hearts"---let us be heavenly-minded not earthly-minded. The faithful give their consent, and say that their hearts where our treasure is---there where Christ is, who sits on the right hand of the Father. "We have lifted them up to the Lord."
 >
@@ -567,7 +567,7 @@ We receive Christ himself in the Holy Eucharist and give thanks for his great sa
 **Theme:**
 Having been given the Peace of God by encountering him in the Liturgy, we are to go forth and share it with the world.
 
-> The Divine Liturgy began 'in peace', and in it's course the peace of God was given to us many times. Now that the celebrant 'dismisses us from the assembly, he once again petitions [peace] for us saying, "Go in peace." And without this peace, it is altogether impossible to say or do anything.'
+> The Divine Liturgy began 'in peace', and in its course the peace of God was given to us many times. Now that the celebrant 'dismisses us from the assembly, he once again petitions [peace] for us saying, "Go in peace." And without this peace, it is altogether impossible to say or do anything.'
 >
 > --- Priest-monk Gregorios quoting St John Chrysostom, *The Divine Liturgy*
 
