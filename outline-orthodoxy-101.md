@@ -2,7 +2,7 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2026-04-29 20:44:54
+updated: 2026-04-29 22:06:33
 lang: en
 pandoc-command-basic: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
 pandoc-command-js: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'writings/divine-liturgy-series/outline-divine-liturgy.html'
@@ -475,7 +475,7 @@ In order to receive Christ within us, we must lay aside all earthly cares, and l
 **Theme**
 The Anaphora is the lifting up of ourselves and the Gifts to God. In it, we participate in the whole economy of salvation.
 
-> "Let us lift up our hearts"---let us be heavenly-minded not earthly-minded. The faithful give their consent, and say that their hearts where our treasure is---there where Christ is, who sits on the right hand of the Father. "We have lifted them up to the Lord."
+> "Let us lift up our hearts"---let us be heavenly-minded not earthly-minded. The faithful give their consent, and say that their hearts are where our treasure is---there where Christ is, who sits on the right hand of the Father. "We have lifted them up to the Lord."
 >
 > --- St Nicholas Cabasilas, *A Commentary on the Divine Liturgy*
 
