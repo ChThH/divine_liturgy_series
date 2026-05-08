@@ -2,7 +2,7 @@
 title: "It is Time for the Lord to Act: A Primer on the Divine Liturgy"
 desc: Outline of Holy Resurrection Orthodox Church Orthodoxy 101 Series
 created: 2025-11-23 00:08:57
-updated: 2026-04-29 22:06:33
+updated: 2026-05-04 23:57:33
 lang: en
 pandoc-command-basic: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/web_folding.lua --from markdown+hard_line_breaks+fancy_lists+lists_without_preceding_blankline --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'Divine Liturgy Series/outline.html'
 pandoc-command-js: pandoc 'writings/divine-liturgy-series/outline-orthodoxy-101.md' --lua-filter filters/nested_fold_full.lua --from markdown+hard_line_breaks+fancy_lists --css=css_styles/foldable_sections.css --embed-resources --standalone -o 'writings/divine-liturgy-series/outline-divine-liturgy.html'
@@ -503,16 +503,52 @@ The Anaphora is the lifting up of ourselves and the Gifts to God. In it, we part
 > 
 > --- The Opening Anaphora Prayers in the Liturgy of St Basil
 
-
 #### Words of Institution
 > This Holy Table is the same Table as that of the Last Supper, and is nothing less. 
 >
 > --- St John Chrysostom, *On Matthew*
 
+> *Priest (mystically):* ..and when he had given thanks and blessed it and hallowed it and broken it, he gave it to his holy disciples and apostles saying,
+> *Priest (aloud):* 'Take eat. This is my Body which is broken for you, for the forgiveness of sins.''
+> *Poeple:* Amen
+> *Priest (mystically):* And likewise after supper he took the cup saying,
+> *Priest (aloud):* 'Drink of this all you, this is my Blood of the New Covenant, which is shed for you and for many, for the forgiveness of sins.'
+> *People:* Amen
+
 #### Epiclesis
-> Having in Remembrance, therefore this saving commandment and all those things which have come to pass for us: the Cross, the Grave, the Third-Day Resurrection, the Ascension into heaven, the sitting at the right hand, and the second and glorious coming: Thine own of thine own we offer unto thee in behalf of all and for all.
->
-> --- The Divine Liturgy
+##### The Remembrance
+###### St John Chrysostom
+> Having in Remembrance, therefore this saving commandment and all those things which have come to pass for us: the Cross, the Grave, the Third-Day Resurrection, the Ascension into heaven, the sitting at the right hand, and the second and glorious coming:
+> Thine own of thine own we offer unto thee in behalf of all and for all.
+
+###### St Basil
+> Wherefore, O Master, we also, having in remembrance his saving passion and life-giving cross, his three day entombment and resurrection from the dead, his ascension into heaven and sitting at the right hand of thee, the God and Father, and his glorious and fearful second coming:
+> Thine own of thine own, we offer unto thee in behalf of all and for all. 
+
+##### The Invocation of the Spirit
+###### St John Chrysostom
+> *Priest:* Again we offer unto thee this rational bloodless worship and beseech thee and pray thee and supplicate thee: Send down thy Holy Spirit *upon us* and upon these gifts spread forth.
+> *Deacon:* Bless, master, the holy bread.
+> *Priest:* And make this bread the Precious Body of thy Christ;
+> *People:* Amen.
+> *Deacon:* Bless, master, the holy cup.
+> *Priest:* And that which is in this cup, the Precious Blood of thy Christ;
+> *People:* Amen.
+> *Deacon:* Bless both, master.
+> *Priest:* Changing them both by thy Holy Spirit.
+> *People:* Amen. Amen. Amen.
+
+###### St Basil
+> *Priest:* Wherefore, O all-holy Master, we also, thy sinful and unworthy servants, who have been made worthy to minister at thy holy altar, *not through our own righteousness, for we have done no good deed upon earth,* but because of thy mercies and compassions which thou hast richly poured out upon us have now boldness to draw near unto thy holy altar; and presenting unto thee the antitypes of the holy Body and Blood of thy Christ, we pray thee and implore thee, O Holy of holies, by the favor of thy goodnes, that thy Holy Spirit may descend *upon us* and upon these gifts here spread forth and bless them and hallow them and show,
+> *Deacon:* Bless, master, the holy bread.
+> *Priest:* This Bread to be itself the precious Body of our Lord and God and Saviour Jesus Christ;
+> *People:* Amen.
+> *Deacon:* Bless, master, the holy cup.
+> *Priest:* And this cup to be itself the Precious Blood of our Lord and God and Saviour, Jesus Christ;
+> *People:* Amen.
+> *Deacon:* Bless both, master.
+> *Priest:* Which was shed for the life of the world and its salvation.
+> *People:* Amen. Amen. Amen.
 
 ## The Mystical Supper: The Holy Eucharist
 **Theme:**
